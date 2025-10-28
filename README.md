@@ -1,25 +1,25 @@
-Low-Data States: \n
-- Nevada (NV) \n
-- Idaho (ID) \n
-- West Virginia (WV) \n
-- Virgin Islands (VI) \n
-- Rhode Island (RI) \n
-- Puerto Rico (PR) \n
-- Oregon (OR) \n
-- New Hampshire (NH) \n
-- Mississippi (MS) \n
-- Michigan (MI) \n
-- Hawaii (HI) \n
-- Guam (GU) \n
-- Georgia (GA) \n
-- American Samoa (AS) \n
+Low-Data States & Territories:
+- Nevada (NV)
+- Idaho (ID)
+- West Virginia (WV)
+- Virgin Islands (VI)
+- Rhode Island (RI)
+- Puerto Rico (PR)
+- Oregon (OR)
+- New Hampshire (NH)
+- Mississippi (MS)
+- Michigan (MI)
+- Hawaii (HI)
+- Guam (GU)
+- Georgia (GA)
+- American Samoa (AS)
 
 
-Known Update Dates: \n
-- 20230502 \n
-- 20230526 \n
-- 20230630 \n
-- 20230728 \n
-- 20230831 \n
-- 20231003 \n
-- 20250606 \n
+Known Update Dates:
+- 20230502
+- 20230526
+- 20230630
+- 20230728
+- 20230831
+- 20231003
+- 20250606
