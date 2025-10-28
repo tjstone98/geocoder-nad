@@ -1,0 +1,16 @@
+[project]
+name = "geocoder-fema"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fiona>=1.10.1",
+    "geopandas>=1.1.1",
+    "ipykernel>=7.0.1",
+    "ipynb>=0.5.1",
+    "pandas>=2.3.3",
+    "pip>=25.3",
+    "pyarrow>=22.0.0",
+    "requests>=2.32.5",
+]

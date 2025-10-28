@@ -1,0 +1,7 @@
+# Ignore large download folders:
+data_download/
+processing/
+
+# Virtual environments:
+.venv/
+venv/
